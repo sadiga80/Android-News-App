@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "674854909067",
+    "firebase_url": "https://liveworldnews2018.firebaseio.com",
+    "project_id": "liveworldnews2018",
+    "storage_bucket": "liveworldnews2018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674854909067:android:06837fa0a2c878bb",
+        "android_client_info": {
+          "package_name": "com.appsan.santhoshadigau.liveworldnews2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674854909067-aahr71quqf7ic5h7rfiq2h7qifv5p61t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsan.santhoshadigau.liveworldnews2018",
+            "certificate_hash": "ad1d358823aefa65d893391e533a7e857cbfc549"
+          }
+        },
+        {
+          "client_id": "674854909067-ffmmmmnd00u6sn6c64mnp5s21ijp1l2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF4WLkX8lWZouJG4FLQch4aFz-lKU9LLk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674854909067-ffmmmmnd00u6sn6c64mnp5s21ijp1l2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

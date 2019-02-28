@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="action_settings">Settings</string>
+    <string name="impossible_game">Get Rewarded</string>
+    <string name="retry_button_text">Retry</string>
+    <string name="default_coin_text">Coins: 0</string>
+    <string name="watch_video_button_text">Watch Video for additional coins</string>
+    <string name="ad_unit_id">ca-app-pub-9993508383214155/9813022790</string>
+</resources>
